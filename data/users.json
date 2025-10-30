@@ -1,0 +1,18 @@
+{
+    "dhananjay": {
+        "password": "$2b$12$W2v4MQiRX3Pb3FqyASmhtegKZ.9wU7j7lvHTTitcNKvhouk417xUC",
+        "voted": true
+    },
+    "keshab": {
+        "password": "$2b$12$RAbNoAT/HtGQ6ZrxNvlsrOkMV4YqVUiMhK4V/xPm0NBWEP6hU5bB.",
+        "voted": true
+    },
+    "umesh": {
+        "password": "$2b$12$3LV6L0zIXKV9d.oSo/jqLu0YNHeb87VfzvoHxuOYRUa2GOoj.N4vC",
+        "voted": true
+    },
+    "randhir": {
+        "password": "$2b$12$/96qflwSVBahKZCCNO7hteSgP8xX0HmQ0/lF7mia1.RU7O9.Ua8IK",
+        "voted": true
+    }
+}
